@@ -1,10 +1,15 @@
 {
-  "god": "Lord Ganesha",
+  "god": "भगवान गणेश",
   "mantras": [
     {
-      "title": "Ganesha Mantra",
-      "text": "Om Gan Ganapataye Namah",
+      "title": "गणेश मंत्र",
+      "text": "ॐ गं गणपतये नमः",
       "youtube": "https://www.youtube.com/embed/_8biXkQ_Olo"
+    },
+    {
+      "title": "वक्रतुंड महाकाय",
+      "text": "वक्रतुंड महाकाय सूर्यकोटि समप्रभ निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा",
+      "youtube": "https://www.youtube.com/embed/qnR6YTUQQYw"
     }
   ]
 }
