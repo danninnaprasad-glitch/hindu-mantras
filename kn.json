@@ -1,10 +1,15 @@
 {
-  "god": "Lord Ganesha",
+  "god": "ಶ್ರೀ ಗಣಪತಿ",
   "mantras": [
     {
-      "title": "Ganesha Mantra",
-      "text": "Om Gan Ganapataye Namah",
+      "title": "ಗಣೇಶ ಮಂತ್ರ",
+      "text": "ಓಂ ಗಣ ಗಣಪತಯೇ ನಮಃ",
       "youtube": "https://www.youtube.com/embed/_8biXkQ_Olo"
+    },
+    {
+      "title": "ವಕ್ರತುಂಡ ಮಹಾಕಾಯ",
+      "text": "ವಕ್ರತುಂಡ ಮಹಾಕಾಯ ಸೂರ್ಯಕೋಟಿ ಸಮಪ್ರಭಾ ನಿರ್ವಿಘ್ನಂ ಕುರು ಮೇ ದೇವಾ ಸರ್ವ ಕಾರ್ಯೇಷು ಸದಾ",
+      "youtube": "https://www.youtube.com/embed/qnR6YTUQQYw"
     }
   ]
 }
