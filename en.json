@@ -1,15 +1,45 @@
 {
-  "god": "Lord Ganesha",
-  "mantras": [
+  "gods": [
     {
-      "title": "Ganesha Mantra",
-      "text": "Om Gan Ganapataye Namah",
-      "youtube": "https://www.youtube.com/embed/_8biXkQ_Olo"
+      "name": "Lord Ganesha",
+      "entries": [
+        {
+          "type": "Mantra",
+          "title": "Ganesha Mantra",
+          "text": "Om Gan Ganapataye Namah",
+          "youtube": "https://www.youtube.com/embed/VALID_VIDEO_ID1"
+        },
+        {
+          "type": "Sloka",
+          "title": "Vakratunda Mahakaya",
+          "text": "Vakratunda Mahakaya Suryakoti Samaprabha Nirvighnam Kurume Deva Sarva Karyeshu Sarvada",
+          "youtube": "https://www.youtube.com/embed/VALID_VIDEO_ID2"
+        },
+        {
+          "type": "Astaka",
+          "title": "Ashtakshara Mantra",
+          "text": "Om Shreem Hreem Kleem Glaum Gam Ganapataye Vara Varada Sarva Janamme Vashamanaya Svaha",
+          "youtube": ""
+        }
+      ]
     },
     {
-      "title": "Vakratunda Mahakaya",
-      "text": "Vakratunda Mahakaya Suryakoti Samaprabha Nirvighnam Kurume Deva Sarva Karyeshu Sarvada",
-      "youtube": "https://www.youtube.com/embed/qnR6YTUQQYw"
+      "name": "Lord Shiva",
+      "entries": [
+        {
+          "type": "Mantra",
+          "title": "Maha Mrityunjaya Mantra",
+          "text": "Om Tryambakam Yajamahe Sugandhim Pushtivardhanam Urvarukamiva Bandhanan Mrityor Mukshiya Maamritat",
+          "youtube": "https://www.youtube.com/embed/VALID_VIDEO_ID3"
+        },
+        {
+          "type": "Sloka",
+          "title": "Shiva Tandava Stotram",
+          "text": "Jatatavigalajjala Pravahapavitasthale Galvalambya Lambitam Bhujangatungamalikam...",
+          "youtube": "https://www.youtube.com/embed/VALID_VIDEO_ID4"
+        }
+      ]
     }
+    // Add more gods similarly...
   ]
 }
