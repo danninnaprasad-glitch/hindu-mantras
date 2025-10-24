@@ -1,10 +1,15 @@
 {
-  "god": "Lord Ganesha",
+  "god": "கணபதி சுவாமி",
   "mantras": [
     {
-      "title": "Ganesha Mantra",
-      "text": "Om Gan Ganapataye Namah",
+      "title": "கணேஷ மந்திரம்",
+      "text": "ஓம் கம் கணபதேயே நம: ",
       "youtube": "https://www.youtube.com/embed/_8biXkQ_Olo"
+    },
+    {
+      "title": "வக்ரதுண்ட மகாகாய",
+      "text": "வக்ரதுண்ட மகாகாய சூரியகோதி சமப்ரபா நிர்விக்னம் குருமே தேவா சர்வ கார்யேஷு சர்வதா",
+      "youtube": "https://www.youtube.com/embed/qnR6YTUQQYw"
     }
   ]
 }
