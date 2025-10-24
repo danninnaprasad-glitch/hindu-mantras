@@ -1,15 +1,44 @@
 {
-  "god": "శ్రీ వినాయక స్వామి",
-  "mantras": [
+  "gods": [
     {
-      "title": "గణేశ మంత్రం",
-      "text": "ఓం గం గణపతయే నమః",
-      "youtube": "https://www.youtube.com/embed/_8biXkQ_Olo"
+      "name": "శ్రీ వినాయక స్వామి",
+      "entries": [
+        {
+          "type": "మంత్రం",
+          "title": "గణేశ మంత్రం",
+          "text": "ఓం గం గణపతయే నమః",
+          "youtube": "https://www.youtube.com/embed/_8biXkQ_Olo"
+        },
+        {
+          "type": "శ్లోకం",
+          "title": "వక్రతుండ మహాకాయ",
+          "text": "వక్రతుండ మహాకాయ సూర్యకోటి సమప్రభా నిర్వీఘ్నం కురుమే దేవ సర్వ కార్యేషు సర్వదా",
+          "youtube": "https://www.youtube.com/embed/qnR6YTUQQYw"
+        },
+        {
+          "type": "అష్టకం",
+          "title": "గణపతి అష్టం",
+          "text": "సిద్ధిదం శ్రీయం జయప్రదం వినాయకం వక్రతుండం",
+          "youtube": ""
+        }
+      ]
     },
     {
-      "title": "వక్రతుండ మహాకాయ",
-      "text": "వక్రతుండ మహాకాయ సూర్యకోటి సమప్రభా నిర్వీఘ్నం కురుమే దేవ సర్వ కార్యేషు సర్వదా",
-      "youtube": "https://www.youtube.com/embed/qnR6YTUQQYw"
+      "name": "శ్రీ శివుడు",
+      "entries": [
+        {
+          "type": "మంత్రం",
+          "title": "మహా మృత్యుంజయ మంత్రం",
+          "text": "ఓం త్ర్యంబకం యజామహే Sugandhim Pushtivardhanam Urvarukamiva Bandhanan Mrityor Mukshiya Maamritat",
+          "youtube": "https://www.youtube.com/embed/lQ6ioAzshw8"
+        },
+        {
+          "type": "శ్లోకం",
+          "title": "శివ తండవ శ్లోకం",
+          "text": "జటాతవిగలజ్జల ప్రవాహపవితస్థలే గళవలంబ్య లంబితం భుజంగతుంగమలికం...",
+          "youtube": ""
+        }
+      ]
     }
   ]
 }
