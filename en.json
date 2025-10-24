@@ -11,7 +11,7 @@
         },
         {
           "type": "Sloka",
-          "title": "Vakratunda Mahakaya",
+          "title": "Vakratunda Mahakaya Sloka",
           "text": "Vakratunda Mahakaya Suryakoti Samaprabha Nirvighnam Kurume Deva Sarva Karyeshu Sarvada",
           "youtube": "https://www.youtube.com/embed/qnR6YTUQQYw"
         },
@@ -36,6 +36,12 @@
           "type": "Sloka",
           "title": "Shiva Tandava Stotram",
           "text": "Jatatavigalajjala Pravahapavitasthale Galvalambya Lambitam Bhujangatungamalikam...",
+          "youtube": ""
+        },
+        {
+          "type": "Astaka",
+          "title": "Shiva Astaka",
+          "text": "Om Namah Shivaya Astakam",
           "youtube": ""
         }
       ]
