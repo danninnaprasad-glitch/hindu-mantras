@@ -22,18 +22,6 @@
           "youtube": ""
         }
       ]
-    },
-    {
-      "name": "Lord Shiva",
-      "entries": [
-        {
-          "type": "Mantra",
-          "title": "Maha Mrityunjaya Mantra",
-          "text": "Om Tryambakam Yajamahe Sugandhim Pushtivardhanam Urvarukamiva Bandhanan Mrityor Mukshiya Maamritat",
-          "youtube": "https://www.youtube.com/embed/lQ6ioAzshw8"
-        },
-        {
-          "type": "Sloka",
-          "title": "Shiva Tandava Stotram",
-          "text": "Jatatavigalajjala Pravahapavitasthale Galvalambya Lambitam Bhujangatungamalikam...",
-          "youtube": ""
+    }
+  ]
+}
