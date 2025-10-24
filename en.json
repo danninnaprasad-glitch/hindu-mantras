@@ -7,18 +7,18 @@
           "type": "Mantra",
           "title": "Ganesha Mantra",
           "text": "Om Gan Ganapataye Namah",
-          "youtube": "https://www.youtube.com/embed/VALID_VIDEO_ID1"
+          "youtube": "https://www.youtube.com/embed/_8biXkQ_Olo"
         },
         {
           "type": "Sloka",
           "title": "Vakratunda Mahakaya",
           "text": "Vakratunda Mahakaya Suryakoti Samaprabha Nirvighnam Kurume Deva Sarva Karyeshu Sarvada",
-          "youtube": "https://www.youtube.com/embed/VALID_VIDEO_ID2"
+          "youtube": "https://www.youtube.com/embed/qnR6YTUQQYw"
         },
         {
           "type": "Astaka",
-          "title": "Ashtakshara Mantra",
-          "text": "Om Shreem Hreem Kleem Glaum Gam Ganapataye Vara Varada Sarva Janamme Vashamanaya Svaha",
+          "title": "Ganapati Astaka",
+          "text": "Siddhidam Shriyam Jayapradam Vinayakam Vakratundam",
           "youtube": ""
         }
       ]
@@ -30,16 +30,15 @@
           "type": "Mantra",
           "title": "Maha Mrityunjaya Mantra",
           "text": "Om Tryambakam Yajamahe Sugandhim Pushtivardhanam Urvarukamiva Bandhanan Mrityor Mukshiya Maamritat",
-          "youtube": "https://www.youtube.com/embed/VALID_VIDEO_ID3"
+          "youtube": "https://www.youtube.com/embed/lQ6ioAzshw8"
         },
         {
           "type": "Sloka",
           "title": "Shiva Tandava Stotram",
           "text": "Jatatavigalajjala Pravahapavitasthale Galvalambya Lambitam Bhujangatungamalikam...",
-          "youtube": "https://www.youtube.com/embed/VALID_VIDEO_ID4"
+          "youtube": ""
         }
       ]
     }
-    // Add more gods similarly...
   ]
 }
