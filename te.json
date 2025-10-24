@@ -1,10 +1,15 @@
 {
-  "god": "Lord Ganesha",
+  "god": "శ్రీ వినాయక స్వామి",
   "mantras": [
     {
-      "title": "Ganesha Mantra",
-      "text": "Om Gan Ganapataye Namah",
+      "title": "గణేశ మంత్రం",
+      "text": "ఓం గం గణపతయే నమః",
       "youtube": "https://www.youtube.com/embed/_8biXkQ_Olo"
+    },
+    {
+      "title": "వక్రతుండ మహాకాయ",
+      "text": "వక్రతుండ మహాకాయ సూర్యకోటి సమప్రభా నిర్వీఘ్నం కురుమే దేవ సర్వ కార్యేషు సర్వదా",
+      "youtube": "https://www.youtube.com/embed/qnR6YTUQQYw"
     }
   ]
 }
