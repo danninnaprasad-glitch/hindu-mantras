@@ -1,10 +1,15 @@
 {
-  "god": "Lord Ganesha",
+  "god": "ശ്രീ വിജയന്",
   "mantras": [
     {
-      "title": "Ganesha Mantra",
-      "text": "Om Gan Ganapataye Namah",
+      "title": "ഗണപതി മന്ത്രം",
+      "text": "ഓം ഗം ഗണപതയേ നമ: ",
       "youtube": "https://www.youtube.com/embed/_8biXkQ_Olo"
+    },
+    {
+      "title": "വക്രതുണ്ട മഹാകായ",
+      "text": "വക്രതുണ്ട മഹാകായ സൂര്യകോതി സമപ്രഭാ നിര്‍വിഘ്നം കുറുമേ ദേവ സര്‍വകാര്യേഷു സര്‍വദാ",
+      "youtube": "https://www.youtube.com/embed/qnR6YTUQQYw"
     }
   ]
 }
